@@ -1,0 +1,10 @@
+<resources>
+    <!-- Custom Style for EditText -->
+    <style name="CustomEditTextStyle">
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:textColorHint">#888888</item> <!-- Light gray hint text -->
+        <item name="android:textColor">#333333</item> <!-- Dark gray text -->
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
